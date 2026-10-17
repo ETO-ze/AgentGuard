@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="470" viewBox="0 0 1280 470" role="img" aria-labelledby="title description">
+  <title id="title">AgentGuard 功能概览示意</title>
+  <desc id="description">公开功能示意，展示任务权限、请求审批、结果审计三个用户功能分区。不是实际界面或系统架构。</desc>
+  <rect width="1280" height="470" rx="24" fill="#F5F8FD" />
+  <circle cx="1190" cy="35" r="150" fill="#EAF0FF" />
+  <text x="48" y="87" fill="#172033" font-size="52" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="700" text-anchor="start">AgentGuard</text>
+  <text x="48" y="134" fill="#647087" font-size="26" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="400" text-anchor="start">管理操作范围，处理审批，核查结果。</text>
+  <rect x="48" y="161" width="64" height="4" rx="2" fill="#315FE8" />
+  <rect x="1090" y="38" width="142" height="38" rx="19" fill="#FFFFFF" />
+  <text x="1161" y="64" fill="#315FE8" font-size="17" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="600" text-anchor="middle">功能概览示意</text>
+  <rect x="48" y="207" width="384" height="192" rx="16" fill="#FFFFFF" stroke="#DDE5F0" />
+  <text x="72" y="242" fill="#315FE8" font-size="16" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="600" text-anchor="start">01</text>
+  <text x="72" y="284" fill="#172033" font-size="28" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="700" text-anchor="start">任务权限</text>
+  <text x="72" y="328" fill="#647087" font-size="20" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="400" text-anchor="start">明确任务的操作范围</text>
+  <text x="72" y="360" fill="#647087" font-size="20" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="400" text-anchor="start">区分用户与智能体接入</text>
+  <g transform="translate(358 238)" fill="none" stroke="#315FE8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="38" height="34" rx="6" />
+    <path d="M9 11h20M9 22h13" />
+  </g>
+  <rect x="448" y="207" width="384" height="192" rx="16" fill="#FFFFFF" stroke="#DDE5F0" />
+  <text x="472" y="242" fill="#315FE8" font-size="16" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="600" text-anchor="start">02</text>
+  <text x="472" y="284" fill="#172033" font-size="28" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="700" text-anchor="start">请求审批</text>
+  <text x="472" y="328" fill="#647087" font-size="20" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="400" text-anchor="start">预览目标与拟写入内容</text>
+  <text x="472" y="360" fill="#647087" font-size="20" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="400" text-anchor="start">按角色处理待审批请求</text>
+  <g transform="translate(758 238)" fill="none" stroke="#315FE8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="32" height="38" rx="6" />
+    <path d="M8 11h16M8 20h9M20 30l5 5 11-12" />
+  </g>
+  <rect x="848" y="207" width="384" height="192" rx="16" fill="#FFFFFF" stroke="#DDE5F0" />
+  <text x="872" y="242" fill="#315FE8" font-size="16" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="600" text-anchor="start">03</text>
+  <text x="872" y="284" fill="#172033" font-size="28" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="700" text-anchor="start">结果审计</text>
+  <text x="872" y="328" fill="#647087" font-size="20" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="400" text-anchor="start">查看执行状态和事件记录</text>
+  <text x="872" y="360" fill="#647087" font-size="20" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="400" text-anchor="start">核查结果与记录完整性</text>
+  <g transform="translate(1158 238)" fill="none" stroke="#315FE8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 4v30M6 8h26M6 20h20M6 32h26" />
+    <circle cx="6" cy="8" r="3" fill="#FFFFFF" />
+    <circle cx="6" cy="20" r="3" fill="#FFFFFF" />
+    <circle cx="6" cy="32" r="3" fill="#FFFFFF" />
+  </g>
+  <text x="48" y="441" fill="#647087" font-size="19" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',Arial,sans-serif" font-weight="400" text-anchor="start">网页工作台管理操作流程，云端说明辅助核对请求。</text>
+</svg>
