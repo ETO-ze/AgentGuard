@@ -1,0 +1,5 @@
+# Public introduction files only. Keep implementation and competition materials private.
+*
+!/.gitignore
+!/README.md
+!/DISCLOSURE.md
